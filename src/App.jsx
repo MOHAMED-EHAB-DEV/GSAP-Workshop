@@ -9,11 +9,12 @@ import {
   GsapTimeline,
   GsapTo,
   Home,
+  SplitTextC
 } from "./pages";
 
 const App = () => {
   return (
-    <div className="bg-black min-h-screen w-full">
+    <div className="bg-[#030014] min-h-screen w-full">
       <Router>
         <Routes>
           <Route path="/gsapto" element={<GsapTo />} />
@@ -23,6 +24,7 @@ const App = () => {
           <Route path="/gsapstagger" element={<GsapStagger />} />
           <Route path="/gsapscrolltrigger" element={<GsapScrollTrigger />} />
           <Route path="/gsaptext" element={<GsapText />} />
+          <Route path="/gsapsplittext" element={<SplitTextC />} />
           <Route path="/" element={<Home />} />
         </Routes>
       </Router>

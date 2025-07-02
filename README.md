@@ -10,6 +10,7 @@
 - ✨ [Introduction](#introduction)
 - ⚙️ [Tech Stack](#tech-stack)
 - 🚀 [Quick Start](#quick-start)
+- ⁉️ [Want to Contribute?](#want-contribute)
 
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
@@ -70,3 +71,11 @@ npm run dev
 
 Open [`http://localhost:5173`](http://localhost:5173) in your browser to view the project.
 
+##  <br /> <a name="want-contribute">⁉️ Want to Contribute?</a>
+
+- Fork this repository.
+- Make A Commit with your favourite animation.
+- Make a pull request with your changes and I will review it.
+
+
+Made with ❤️ by Mohammed.

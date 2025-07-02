@@ -6,14 +6,16 @@ import GsapStagger from "./GsapStagger";
 import GsapTimeline from "./GsapTimeline";
 import GsapScrollTrigger from "./GsapScrollTrigger";
 import GsapText from "./GsapText";
+import SplitTextC from "./SplitText.jsx";
 
 export {
-  GsapTo,
-  GsapFrom,
-  GsapFromTo,
-  Home,
-  GsapTimeline,
-  GsapScrollTrigger,
-  GsapStagger,
-  GsapText,
+    GsapTo,
+    GsapFrom,
+    GsapFromTo,
+    Home,
+    GsapTimeline,
+    GsapScrollTrigger,
+    GsapStagger,
+    GsapText,
+    SplitTextC,
 };
